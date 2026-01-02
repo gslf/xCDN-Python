@@ -62,4 +62,6 @@ from . import lexer
 from . import ser
 
 __version__ = "0.1.0"
+__author__ = "Gioele Stefano Luca Fierro"
+__license__ = "MIT"
 __all__ = ["parse_str", "parse_reader", "ast", "error", "lexer", "ser"]
